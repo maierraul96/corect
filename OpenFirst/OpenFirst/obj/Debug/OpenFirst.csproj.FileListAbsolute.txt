@@ -1,0 +1,8 @@
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\bin\Debug\OpenFirst.exe
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\bin\Debug\OpenFirst.pdb
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\Debug\OpenFirst.csprojResolveAssemblyReference.cache
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\Debug\OpenFirst.SpatLib.resources
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\Debug\OpenFirst.Properties.Resources.resources
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\Debug\OpenFirst.csproj.GenerateResource.Cache
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\Debug\OpenFirst.exe
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\Debug\OpenFirst.pdb

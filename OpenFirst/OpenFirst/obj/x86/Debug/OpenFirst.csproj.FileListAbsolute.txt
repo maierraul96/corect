@@ -1,0 +1,14 @@
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\bin\x86\Debug\OpenFirst.exe
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\bin\x86\Debug\OpenFirst.pdb
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.SpatLib.resources
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.Properties.Resources.resources
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.csproj.GenerateResource.Cache
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.exe
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.pdb
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.csprojResolveAssemblyReference.cache
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.Adaugare.resources
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.VarianteMultiple.resources
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.Corectare.resources
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.CreeareCont.resources
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.Logare.resources
+c:\users\raul\documents\visual studio 2015\Projects\OpenFirst\OpenFirst\obj\x86\Debug\OpenFirst.Meniu.resources
